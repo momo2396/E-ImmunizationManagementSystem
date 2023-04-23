@@ -179,10 +179,6 @@ include('../message.php');
     </script>
     <div id="barchart_material" style="width: 1300px; height: 700px;"></div>
 
-<?php
-include('includes/scripts.php');
-?>
-
 </script>                               
 <?php
 include('includes/scripts.php');

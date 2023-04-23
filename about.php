@@ -16,8 +16,6 @@
 
   <link rel="stylesheet" href="./assets/vendor/owl-carousel/css/owl.carousel.css">
 
-  <link rel="stylesheet" href="./assets/vendor/animate/animate.css">
-
   <link rel="stylesheet" href="./assets/css/theme.css">
 </head>
 <body>
@@ -30,10 +28,6 @@
       <div class="container">
         <form action="#">
           <div class="input-group input-navbar">
-            <div class="input-group-prepend">
-              <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
-            </div>
-            <input type="text" class="form-control" placeholder="Type to search..." aria-label="Username" aria-describedby="icon-addon1">
           </div>
         </form>
 
@@ -47,7 +41,7 @@
               <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="doctors.php">Vaccine Information</a>
+              <a class="nav-link" href="vaccines.php">Vaccine Information</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="blog.php">Events</a>
@@ -89,6 +83,4 @@
 <script src="./assets/js/theme.js"></script>
   
 </body>
-</html> 
-
-<!-- Vaccine Infromations  -->
+</html>

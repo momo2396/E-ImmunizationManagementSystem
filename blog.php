@@ -33,10 +33,6 @@ include('./config/dbconfig.php');
       <div class="container">
         <form action="#">
           <div class="input-group input-navbar">
-            <div class="input-group-prepend">
-              <span class="input-group-text" id="icon-addon1"><span class="mai-search"></span></span>
-            </div>
-            <input type="text" class="form-control" placeholder="Type to search..." aria-label="Username" aria-describedby="icon-addon1">
           </div>
         </form>
 
@@ -54,12 +50,6 @@ include('./config/dbconfig.php');
             </li>
             <li class="nav-item">
               <a class="nav-link" href="vaccines.php">Vaccine Information</a>
-            </li>
-             <li class="nav-item">
-              <a class="btn btn-primary ml-lg-3" href="login.php">Login</a>
-            </li>
-            <li class="nav-item">
-              <a class="btn btn-primary ml-lg-3" href="register.php">Register</a>
             </li>
           </ul>
         </div> <!-- .navbar-collapse -->
